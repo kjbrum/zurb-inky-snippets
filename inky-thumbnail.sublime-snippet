@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-<img src="${1}" class="thumbnail">${0}
+<img src="${1}" class="thumbnail" alt="${2}">${0}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>inky-thumb</tabTrigger>
-    <description>Inky Thumbnail</description>
+    <description>Inky - Thumbnail</description>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>text.html</scope>
 </snippet>
