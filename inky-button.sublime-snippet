@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<button${1: class="${2:tiny small large} ${3:secondary success warning alert} ${4:expanded}"}>
+    <a href="${5}">${0}</a>
+</button>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>inky-btn</tabTrigger>
+    <description>Inky Button</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html</scope>
+</snippet>
